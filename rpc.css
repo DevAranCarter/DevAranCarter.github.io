@@ -1,0 +1,51 @@
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+    justify-content: center;
+}
+
+#playagain {
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+#usrquest {
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+#buttons {
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+#winner {
+    text-align: center;
+    justify-content: center;
+}
+
+h4 {
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+#score {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+}
